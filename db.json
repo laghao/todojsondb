@@ -1,1 +1,17 @@
-{"todos":[{"title":"Add Cloudfront distribution","completed":false,"created_at":""},{"title":"Link CLoudfront to s3 bucket","completed":false,"created_at":""},{"title":"Add index.html in s3 bucket","completed":true,"created_at":""}]}
+[
+        {
+            "completed": false,
+            "created_at": "",
+            "title": "Add Cloudfront distribution"
+        },
+        {
+            "completed": false,
+            "created_at": "",
+            "title": "Link CLoudfront to s3 bucket"
+        },
+        {
+            "completed": true,
+            "created_at": "",
+            "title": "Add index.html in s3 bucket"
+        }
+]
