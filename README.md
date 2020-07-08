@@ -1,11 +1,16 @@
 
+---
 # Background 
+------
 
 This is a Golang based todo application - It can be deployed on AWS as a lambda fuction and exposed through API gateway, the Database used in this example is DynamoDB 
 
 # Backend 
+------
+
 
 ## Install required packages
+
 ```
 go get github.com/go-chi/chi
 go get gopkg.in/mgo.v2
@@ -39,7 +44,7 @@ cp /tmp/main.zip /home/equa/Cloud/aws-terraform-application/infrastucture-aws-pa
 
 
 # Frontend
-
+------
 
 ## Project setup
 ```
